@@ -4,7 +4,7 @@
 	branch = dev
 [submodule "repo"]
 	path = insert/repo
-	url = git@github.com:notion-enhancer/repo.git
+	url = git@github.com:theol0403/repo.git
 	branch = dev
 [submodule "media"]
 	path = insert/media
